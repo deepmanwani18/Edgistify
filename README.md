@@ -1,5 +1,6 @@
 # Edgistify
 Link for the website: http://13.235.43.83:8000/
+
 NOTE: Ensure that node and mongodb is installed on your system. Otherwise this will not work.
 
 ## Follow this list to get up and running
